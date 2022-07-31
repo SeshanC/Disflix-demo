@@ -1,0 +1,59 @@
+body {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-image: url("images/bg.jpeg");
+  background-size: contain;
+  height: 2000px;
+}
+
+.homebtn {
+  position: fixed;
+}
+
+/*Inception*/
+.inception_poster {
+  position: absolute;
+  top: 115%;
+  left: 8px;
+  width: 25%;
+}
+
+/**The Gray Man**/
+.thegrayman_poster {
+  position: absolute;
+  top: 115%;
+  left: 37%;
+  width: 25.5%;
+}
+
+/*John Wick 1*/
+.johnwickoneposter {
+  position: absolute;
+  top: 115%;
+  right: 1%;
+  width: 24%;
+}
+
+/*Breaking Bad*/
+.breakingbadposter {
+  position: absolute;
+  top: 200%;
+  left: 8px;
+  width: 25%;
+}
+
+/* John Wick Chapte 2 */
+.johnwicktwoposter {
+  position: absolute;
+  top: 200%;
+  left: 37.5%;
+  width: 23.5%;
+}
+
+/* Sherlock Poster */
+.sherlockposter {
+  position: absolute;
+  top: 200%;
+  right: 15px;
+  width: 23.5%;
+}
